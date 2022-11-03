@@ -1,0 +1,15 @@
+body {
+    width: 200vw;
+    height: 200vh;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin-bottom: 10px;
+}
